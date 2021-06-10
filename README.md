@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @prachimodi-142
-- 👀 I’m interested in Swift, Python, AI, ML.
+- 👋 Hi, I’m Prachi!
+- 👀 I’m interested in Swift, Python, AI, ML...anything that triggers my curiosity.
 - 🌱 I’m currently learning Python!
 - 💞️ I’m looking to collaborate on any project which helps me learn better.
 - 📫 How to reach me prachi.modi142@gmail.com
